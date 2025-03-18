@@ -1,0 +1,57 @@
+.bar-chart-container {
+    width: 90%;
+    padding: 20px;
+}
+
+.bar-item {
+    margin-bottom: 10px;
+}
+
+.bar-label {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+.bar-title {
+    font-weight: 600;
+    font-size: 1.5rem;
+    font-family: "Exo 2", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    margin-bottom: -5px;
+    margin-top: -5px;
+    margin-left: 10px;
+    color: #672507;
+
+}
+
+.bar-percentage {
+    font-weight: 600;
+    font-size: 1.5rem;
+    font-family: "Exo 2", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    margin-bottom: -5px;
+    margin-top: -5px;
+    margin-left: 10px;
+    color: #672507;
+
+}
+
+.bar-background {
+    width: 100%;
+    height: 30px;
+    background-color: #FBB74F;
+    border-radius: 5px;
+    border: 2px #fff solid;
+
+}
+
+.bar-progress {
+    height: 100%;
+    border-radius: 5px;
+    border-right: 2px solid #fff;
+}

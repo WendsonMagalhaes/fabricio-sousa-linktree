@@ -5,7 +5,7 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url('../../asserts/imagens/background-01.png');
+    background-image: url('../../assets/imagens/background-01.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -149,6 +149,7 @@ h4 {
 
 
 }
+
 
 
 .profile-info-links a {

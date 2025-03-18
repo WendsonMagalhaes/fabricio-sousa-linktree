@@ -1,8 +1,8 @@
 import React from "react";
 import "./Linktree.css";
 import { FaInstagram, FaYoutube, FaTiktok, FaGlobe } from "react-icons/fa";
-import imagem_01 from "../../asserts/imagens/imagem-01.png"
-import logo_01 from "../../asserts/imagens/logo-01.png"
+import imagem_01 from "../../assets/imagens/imagem-01.webp"
+import logo_01 from "../../assets/imagens/logo-01.webp"
 
 
 
